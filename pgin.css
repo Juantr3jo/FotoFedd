@@ -1,0 +1,39 @@
+body{
+    background-color:#91949b;
+}
+.container{
+    width: 50%;
+}
+.header {
+    background-color: white;
+    height: 50px;
+    
+}
+.boton{
+    margin-left: 600px;
+}
+
+}
+.navbar-brand{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar-expand{
+    background-color: white;
+}
+.head{
+    
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    height: 50px;
+    
+}
+.head h4{
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.head span{
+    margin-right: 10px;
+    margin-top: 5px;
+
+}
